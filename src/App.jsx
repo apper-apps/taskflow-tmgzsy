@@ -45,7 +45,7 @@ function App() {
             transition={{ duration: 0.3 }}
             className="flex items-center gap-2"
           >
-            <span className="text-xl sm:text-2xl font-bold text-primary">TaskFlowNew</span>
+            <span className="text-xl sm:text-2xl font-bold text-primary">Task_Flow</span>
           </motion.div>
           
           <motion.button
